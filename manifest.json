@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Dolar Brasil",
+  "description": "Extensão que retorna a cotação do dólar",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "favicon.ico"
+  },
+  "permissions": [
+    "storage",
+    "tabs",
+    "background",
+    "sidePanel"
+  ]
+}
